@@ -1,0 +1,46 @@
+[
+    {
+        "clientId": 1,
+        "amount": 5000,
+        "boletoId": 888,
+        "card": {
+            "card_holder_name": "John Doe",
+            "card_number": 1942392398423,
+            "card_expiration_date": "23-03-2023",
+            "card_cvv_number": 696
+        }
+    },
+    {
+        "clientId": 2,
+        "amount": 6500,
+        "boletoId": 999,
+        "card": {
+            "card_holder_name": "Jane Doe",
+            "card_number": 1942392393423,
+            "card_expiration_date": "15-08-2022",
+            "card_cvv_number": 677
+        }
+    },
+    {
+        "clientId": 3,
+        "amount": 4800,
+        "boletoId": 777,
+        "card": {
+            "card_holder_name": "Max Muller",
+            "card_number": 1942392395121,
+            "card_expiration_date": "28-05-2024",
+            "card_cvv_number": 452
+        }
+    },
+    {
+        "clientId": 4,
+        "amount": 5200,
+        "boletoId": 666,
+        "card": {
+            "card_holder_name": "Alex Sully",
+            "card_number": 1942392362654,
+            "card_expiration_date": "04-07-2025",
+            "card_cvv_number": 931
+        }
+    }
+]

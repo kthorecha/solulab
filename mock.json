@@ -1,0 +1,34 @@
+[
+    {
+        "clientId": 1,
+        "Buyer": {
+            "name": "John Doe",
+            "email": "john@gmail.com",
+            "CPF": 223
+        }
+    },
+    {
+        "clientId": 2,
+        "Buyer": {
+            "name": "Jane Doe",
+            "email": "jane@gmail.com",
+            "CPF": 224
+        }
+    },
+    {
+        "clientId": 3,
+        "Buyer": {
+            "name": "Max Muller",
+            "email": "max@gmail.com",
+            "CPF": 225
+        }
+    },
+    {
+        "clientId": 4,
+        "Buyer": {
+            "name": "Alex Sully",
+            "email": "alex@gmail.com",
+            "CPF": 226
+        }
+    }
+]
